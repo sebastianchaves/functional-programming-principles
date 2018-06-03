@@ -54,3 +54,7 @@ fabric.properties
 ### Scala ###
 *.class
 *.log
+
+target
+project/target
+.idea/
